@@ -45,7 +45,8 @@ You are required to submit BOTH of the following for review:
 
 * The URL of the functional, deployed application. https://floretdemola.github.io/Weather-Dashboard3005/
 
-* The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project: https://github.com/floretdemola/Weather-Dashboard.
+* The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project: https://github.com/floretdemola/Weather-Dashboard3005.
+
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
